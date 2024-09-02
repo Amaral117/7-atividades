@@ -1,0 +1,36 @@
+body{
+    height: 100px;
+    font-size: large;
+    font-family: Arial black;
+    background-color: rgb(156, 156, 156);
+    margin: 20px;
+}
+
+h1{
+    color: rgb(111, 0, 255);
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+h2{
+    color: rgb(111, 0, 255);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4{
+    color: rgb(0, 0, 0);
+    font-size: 17px;    
+    width: 1200px;
+    font-family: arial;
+    padding-bottom: 40px;
+    
+
+}
+
+p{
+    color: rgb(5, 5, 5);
+    font-size: 20px;
+    font-family: arial black;
+}
